@@ -1,0 +1,48 @@
+{
+  "name": "Chat 2",
+  "created_at": "2025-11-07T17:11:41",
+  "model": "llama3.2",
+  "system_prompt": "You are a helpful AI assistant.",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! It's nice to meet you. Is there something I can help you with or would you like to chat?"
+    },
+    {
+      "role": "user",
+      "content": "you know my name ?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, I don't actually know your name. I'm a new conversation each time you interact with me, so we haven't had any previous interactions that would allow me to retain information about you. How can I help you today?"
+    },
+    {
+      "role": "user",
+      "content": "i m ramez"
+    },
+    {
+      "role": "assistant",
+      "content": "It's nice to meet you, Ramez! What brings you here today? Is there something on your mind that you'd like to talk about or ask for help with? I'm all ears!"
+    },
+    {
+      "role": "user",
+      "content": "you can remeber it ?"
+    },
+    {
+      "role": "assistant",
+      "content": "I can store our conversation for a short period of time, so if we start over and don't explicitly tell me your name again, I might be able to recall that you mentioned it earlier. However, please keep in mind that my memory is limited to the current conversation session, and I won't retain any information beyond that.\n\nIf I don't remember your name when we pick up where we left off, feel free to remind me, Ramez!"
+    },
+    {
+      "role": "user",
+      "content": "cool"
+    },
+    {
+      "role": "user",
+      "content": "hi again "
+    }
+  ]
+}

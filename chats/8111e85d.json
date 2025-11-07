@@ -1,0 +1,7 @@
+{
+  "name": "Chat 3",
+  "created_at": "2025-11-07T17:47:36",
+  "model": "llama3.2",
+  "system_prompt": "You are a helpful AI assistant.",
+  "messages": []
+}
